@@ -8,7 +8,7 @@ Codenames implements a web app for generating and displaying boards for the <a h
 
 This is a modified version of the original Codenames game where you use pictures instead of words. Look below for instructions on how to use your own images!
 
-A hosted version of the app is available at [codenames.dport.me](https://codenames.dport.me). This is just running on a crusty old laptop that also hosts like 10 other sites so go easy on it.
+A hosted version of the app is available at [on EC2](http://ec2-35-167-104-236.us-west-2.compute.amazonaws.com). 
 
 ![Spymaster view of board](https://raw.githubusercontent.com/banool/codenames-pictures/master/screenshot.png)
 
