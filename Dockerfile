@@ -8,8 +8,8 @@ COPY . .
 RUN go get -d -v ./...
 RUN go install -v ./...
 
-# Expose 9091 port
-EXPOSE 9091
+# Expose 80 port
+EXPOSE 80
 
 # Set run command
-CMD codenames 9091
+CMD codenames 80
