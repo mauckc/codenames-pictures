@@ -246,7 +246,7 @@ window.Game = React.createClass({
                       </svg>
                     </button>
                     <button onClick={(e) => this.toggleRole(e, 'player')} className="player">Player</button>
-                    <button onClick={(e) => this.toggleRole(e, 'codemaster')} className="codemaster">Spymaster</button>
+                    <button onClick={(e) => this.toggleRole(e, 'codemaster')} className="codemaster">Spydaddy</button>
                     <button onClick={(e) => this.nextGame(e)} id="next-game-btn">Next game</button>
                 </form>
                 <div id="coffee">
